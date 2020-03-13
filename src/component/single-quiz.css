@@ -1,0 +1,25 @@
+.single-quiz-container{
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    font-size: 22px;
+    width: 500px;
+    text-align: center;
+    color: #FBF7E8;
+    background-color: #252F38;
+    margin-top: 10px;
+}
+
+.single-quiz-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 4px;
+  }
